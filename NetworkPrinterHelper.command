@@ -6,6 +6,9 @@
 #   Drivers for the Mac can be found here:              #
 #   /Library/Printers/PPDs/Contents/Resources/          #
 #   I'm using Fuji Xerox printers.                      #
+#	Check where you put the driver install file, I 		#
+#	built a DMG to hold everything and it kept the 		#
+#	file paths nice and neet.
 #                                                       #
 #   This looks to see if the drivers are already        #
 #   installed (if not it installs it) and then asks     #
