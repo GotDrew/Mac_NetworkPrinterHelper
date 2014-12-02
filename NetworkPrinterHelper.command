@@ -69,7 +69,7 @@ StartSelections ()
 	echo --Select Location--
 	echo 
 	PS3='Please select location: '
-	options=("Main" "Office 1" "Office 2" "Store room" "Type" "All" "Quit")
+	options=("Main" "Office 1" "Office 2" "Type" "All" "Quit")
 	select opt in "${options[@]}"
 	do
 		case $opt in
